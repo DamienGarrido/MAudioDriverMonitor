@@ -1,0 +1,7 @@
+# Ignore Visual Studio user files
+*.suo
+*.csproj.user
+
+# Ignore bin/ and obj/ folders
+bin/
+obj/
